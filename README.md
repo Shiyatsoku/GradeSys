@@ -1,2 +1,2 @@
-# Projeto-de-verifica-o-de-notas
+# Projeto-de-verificao de-notas
 Um projeto acadêmico.
